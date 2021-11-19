@@ -1,5 +1,12 @@
+# 2021-11-19
+
+- [flask] work with parameters
+- recalled logic of getting object by specific key value
+- intro to celery
+
 # 2021-11-18
 
+- logging intro
 
 # 2021-11-17
 
