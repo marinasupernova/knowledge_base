@@ -1,5 +1,10 @@
 # 2021-11-19
 
+- logging module
+- deeper understanding of debug
+
+# 2021-11-19
+
 - [flask] work with parameters
 - recalled logic of getting object by specific key value
 - intro to celery
