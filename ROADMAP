@@ -1,3 +1,4 @@
 
 - flask + mongo
 - sending emails with Python
+- command line arguments + interacting Python terminal 
